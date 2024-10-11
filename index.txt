@@ -1,0 +1,17 @@
+Interview Question Frontend:
+
+Imagine you are developing a web application that includes a user login system and a dashboard for managing user data. The dashboard should display a table containing user information with the following functionalities:
+
+User Login: Describe how you would implement user authentication. What technologies and best practices would you use to ensure security?
+
+Dashboard with Table: Once logged in, users should see a dashboard with a table that lists all users. Discuss how you would structure the frontend to display this table, including how you would handle data fetching.
+
+Pagination: The table should support pagination to display a manageable number of users at a time. Explain how you would implement pagination on both the frontend and backend.
+
+Add, Edit and Delete Functions: Each user in the table should have the ability to be edited or deleted. Describe how you would implement these functionalities, including the user experience you would aim for and how you would handle the state management in your application.
+
+Error Handling and User Feedback: Discuss how you would provide feedback to users after performing actions like editing or deleting a user. What kind of error handling would you implement to ensure a smooth user experience?
+ 
+Frontend Frameworks and library: Angular, Angular Material, tailwindcss (optional)
+api: jsonplaceholder.typicode.com/users
+ 
